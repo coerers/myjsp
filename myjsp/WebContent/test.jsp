@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- 안녕 인생아
+<% out.print("hello"); %>
 </body>
 </html>
